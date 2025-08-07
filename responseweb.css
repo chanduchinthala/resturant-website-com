@@ -1,0 +1,319 @@
+.food-much-logo{
+    height: 80px;
+    width: 80px;
+}
+
+#navitem1{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#navitem2{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#navitem3{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#navitem4{
+    color: #323f4b;
+    font-family: "roboto";
+}
+.banner-section-bg-container{
+    background-image:url(/foodmunch-banner-bg.png) ;
+    height: 100vh;
+    background-size: cover;
+}
+.banner-heading{
+    color: white;
+    font-size: 45px;
+    font-family: "Roboto";
+    font-weight: 300;
+
+}
+.banner-paragraph{
+    color: white;font-size: 40px;
+    font-family: "Roboto";
+    font-weight: 300;
+
+
+
+}
+.custom-button{
+    height: 45px;
+    width: 150px;
+    background-color: rgb(185, 224, 27);
+    color: rgb(251, 243, 243);
+    border-radius: 8px;
+    margin-right: 10px;
+}
+    .custom-button:hover{
+            transform: scale(1.0);
+            background-color: rgb(142, 63, 129);
+        
+
+}
+
+
+.custom-outline-button{
+    height: 45px;
+    width: 135px;
+    border-radius: 8px;
+    color: rgb(227, 230, 21);
+    background-color: transparent;
+    border-color: rgb(147, 10, 232);
+    border-style: solid;
+
+}
+.wcu-bg-container{
+    background-color: white;
+}
+.wcu-section-heading{
+    color: #323f4b;
+    font-size: 70px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+.wcu-sectfion-paragraph{
+    color: #5889b7;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 300;
+
+}
+.wcu-card{
+    background-color: white;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #dfe2e5;
+    border-radius: 8px;
+}
+.wcu-card-image{
+    height: 90px;
+    width: 87px;
+
+}
+.wcu-card-title{
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+.wcu-card-paragraph{
+    color: #1d5488;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+.offers{
+    font-weight: 600;
+    font-style: italic;
+    color: rgb(173, 16, 16);
+}
+.Explore-menu-section{
+    background-color: white;
+}
+.menu-section-heading{
+    font-size: 28px;
+    font-size: "Roboto";
+    color: #183b56;
+    font-weight: 700;
+
+}
+.menu-item-image
+{
+border-radius: 18px;
+width: 290px;
+height: 304px;
+}
+.menu-card-title{
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color: #01101e;
+    margin-top: 5px;
+}
+.menu-item-link{
+    color: gold;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.shadowmenu-item-card{
+    background-origin: cover;
+}
+.healthy-food-section-bg-container{
+    background-color: #f9fbfe;
+
+}
+.healthy-food-section-img{
+    width: 270px;
+
+
+}
+.healthy-food-section-heading{
+    font-family: "Roboto";
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+}
+.healthy-food-section-description{
+    color: #1d5488;
+    font-family: "Roboto";
+    justify-content: space-evenly;
+
+}
+
+
+.delivery-payment-section-heading{
+     font-family: "Roboto";
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+}
+.delivery-payment-section-img{
+    width: 270px;
+
+}
+.delivery-payment-discription{
+    color: #1d5488;
+    font-family: "Roboto";
+   
+              
+  
+
+}
+.visa-card-img{
+    width: 45px;
+    cursor: pointer;
+     padding:5px;
+            border-radius: 2px;
+            transition: trasform 0.5s,background-color 0.5s;
+        }
+    .visa-card-img:hover{
+            transform: scale(1.0);
+            background-color: rgb(20, 14, 19);
+            border-bottom: 2px solid black;
+
+}
+.paypal-card-img{
+        width: 50px;
+        cursor: pointer;
+         padding:5px;
+            border-radius: 2px;
+            transition: trasform 0.5s,background-color 0.5s;
+        }
+    .paypal-card-img:hover{
+            transform: scale(1.0);
+            background-color: rgb(20, 14, 19);
+            border-bottom: 2px solid black;
+
+
+}
+.master-card-img{
+        width: 40px;
+        cursor: pointer;
+        
+            border-radius: 2px;
+            transition: trasform 0.5s,background-color 0.5s;
+        }
+    .master-card-img:hover{
+            transform: scale(1.0);
+            background-color: rgb(20, 14, 19);
+            border-bottom: 2px solid black;
+
+
+}
+.american-express-img{
+        width: 40px;
+            padding:5px;
+            border-radius: 2px;
+            transition: trasform 0.5s,background-color 0.5s;
+        }
+    .american-express-img:hover{
+            transform: scale(1.0);
+            background-color: rgb(20, 14, 19);
+            border-bottom: 2px solid black;
+            cursor:pointer;
+        
+        }
+        .gift-voucher-img{
+            width: 300px;
+
+        }
+        .thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+}
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+        
+
